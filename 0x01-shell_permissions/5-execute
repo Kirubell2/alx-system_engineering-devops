@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 100 betty
+sudo chmod 700 betty
